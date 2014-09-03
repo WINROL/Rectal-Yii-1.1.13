@@ -1,0 +1,1951 @@
+2013/05/04 14:11:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+HTTP_REFERER=http://voenkom/site/index.html
+---
+2013/05/04 14:11:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+HTTP_REFERER=http://voenkom/admin/index.html
+---
+2013/05/04 14:11:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+HTTP_REFERER=http://voenkom/admin/index.html
+---
+2013/05/04 14:11:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+HTTP_REFERER=http://voenkom/admin/index.html
+---
+2013/05/04 14:14:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index
+---
+2013/05/04 14:14:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:14:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:15:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:15:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index
+---
+2013/05/04 14:16:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:16:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:16:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/index.html
+---
+2013/05/04 14:17:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "test/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('test/index')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/test/index.html
+---
+2013/05/04 15:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "test/default/index".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('test/default/in...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/test/default/index.html
+---
+2013/05/05 10:41:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/05 10:41:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 01:27:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/unit".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/unit.html
+HTTP_REFERER=http://voenkom/admin.html
+---
+2013/05/06 01:27:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/units".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/units')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/units.html
+---
+2013/05/06 01:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/units".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/units')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/units.html
+---
+2013/05/06 01:28:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/unit".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/unit.html
+---
+2013/05/06 01:28:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/unit".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/unit.html
+HTTP_REFERER=http://voenkom/admin.html
+---
+2013/05/06 02:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/troop".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/troop')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/troop.html
+HTTP_REFERER=http://voenkom/gii/crud.html
+---
+2013/05/06 02:45:29 [error] [exception.CException] exception 'CException' with message 'Не визначена властивістьо "DefaultController.breadcrumbs".' in Z:\home\voenkom\www\framework\base\CComponent.php:173
+Stack trace:
+#0 Z:\home\voenkom\www\protected\modules\admin\views\default\index.php(4): CComponent->__set('breadcrumbs', Array)
+#1 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', NULL, true)
+#3 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', NULL, true)
+#4 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('index', NULL, true)
+#5 Z:\home\voenkom\www\protected\modules\admin\controllers\DefaultController.php(35): CController->render('index')
+#6 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): DefaultController->actionIndex()
+#7 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#14 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('')
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#17 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#18 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/admin.html
+---
+2013/05/06 02:53:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "admin/login".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/login')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/admin/login.html
+---
+2013/05/06 02:53:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "adminhtml".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('adminhtml')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adminhtml
+---
+2013/05/06 02:54:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "adminhtml".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('adminhtml')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/adminhtml
+---
+2013/05/06 10:01:34 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/unit.html
+HTTP_REFERER=http://voenkom/admin/troop/index.html
+---
+2013/05/06 10:01:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/unit.html
+HTTP_REFERER=http://voenkom/admin/troop/index.html
+---
+2013/05/06 10:56:16 [error] [exception.CException] exception 'CException' with message 'Не визначена властивістьо "CActiveForm.0".' in Z:\home\voenkom\www\framework\base\CComponent.php:173
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWidgetFactory.php(161): CComponent->__set('0', 'pre')
+#1 Z:\home\voenkom\www\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(189): CBaseController->createWidget('CActiveForm', Array)
+#3 Z:\home\voenkom\www\protected\views\site\login.php(23): CBaseController->beginWidget('CActiveForm', Array)
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('login', Array, true)
+#8 Z:\home\voenkom\www\protected\controllers\SiteController.php(98): CController->render('login', Array)
+#9 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 Z:\home\voenkom\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('login')
+#14 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/site/login.html
+HTTP_REFERER=http://voenkom/site/index.html
+---
+2013/05/06 11:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:28:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:48:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:48:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:50:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:52:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:58:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 11:59:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+HTTP_REFERER=http://voenkom/admin/prizovnyk/create.html
+---
+2013/05/06 12:00:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 12:18:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 12:18:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+HTTP_REFERER=http://voenkom/admin/prizovnyk/update/id/1.html
+---
+2013/05/06 12:38:26 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(26): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (26)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:39:01 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(27): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (27)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:39:03 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(27): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (27)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:40:03 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(27): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (27)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:40:04 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(27): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (27)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:41:09 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php(27): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(55): FundController->render()
+#9 unknown(0): FundController->actionView()
+#10 Z:\home\voenkom\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/view/id/2.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\view.php (27)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (55)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:50:46 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:50:49 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:51:26 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:51:29 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:52:39 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:52:51 [error] [exception.CException] exception 'CException' with message 'Не визначена властивістьо "Fund.prizovnyk".' in Z:\home\voenkom\www\framework\base\CComponent.php:130
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(143): CComponent->__get('prizovnyk')
+#1 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): CActiveRecord->__get('prizovnyk')
+#2 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#3 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CComponent->evaluateExpression('$data->prizovny...', Array)
+#4 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent(0, Object(Fund))
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CGridColumn->renderDataCell(0)
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow(0)
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#8 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#9 [internal function]: CBaseListView->renderSection(Array)
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback('/{(\w+)}/', Array, '{summary}?{item...')
+#11 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CBaseListView->renderContent()
+#12 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CBaseListView->run()
+#13 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(56): CBaseController->widget('zii.widgets.gri...', Array)
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#15 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#16 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#17 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('admin', Array, true)
+#18 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): CController->render('admin', Array)
+#19 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#20 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#21 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#22 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#24 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#25 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#26 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#27 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('admin')
+#29 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/fund/admi...')
+#30 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#32 {main}
+REQUEST_URI=/admin/fund/admin.html
+HTTP_REFERER=http://voenkom/admin/fund/index.html
+---
+2013/05/06 12:53:09 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(56): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (56)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:54:06 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(56): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (56)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:54:49 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(48): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (48)
+2013/05/06 12:55:18 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(56): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (56)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:56:02 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(51): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (51)
+2013/05/06 12:58:01 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(50): Fund->__get()
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#5 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#6 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#7 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#8 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#9 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#10 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#11 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#12 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#15 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#17 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#18 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#19 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#20 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#21 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (50)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:58:21 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(59): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (59)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 12:58:30 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(59): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (59)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 13:08:42 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(58): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (58)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 13:08:53 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\ar\CActiveFinder.php(48): CActiveFinder->buildJoinTree()
+#1 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(271): CActiveFinder->__construct()
+#2 Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php(141): Fund->getRelated()
+#3 Z:\home\voenkom\www\framework\base\CComponent.php(606) : eval()'d code(1): Fund->__get()
+#4 Z:\home\voenkom\www\framework\base\CComponent.php(606): eval()
+#5 Z:\home\voenkom\www\framework\zii\widgets\grid\CDataColumn.php(131): CDataColumn->evaluateExpression()
+#6 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridColumn.php(144): CDataColumn->renderDataCellContent()
+#7 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(589): CDataColumn->renderDataCell()
+#8 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(545): CGridView->renderTableRow()
+#9 Z:\home\voenkom\www\framework\zii\widgets\grid\CGridView.php(455): CGridView->renderTableBody()
+#10 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CGridView->renderItems()
+#11 unknown(0): CGridView->renderSection()
+#12 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#13 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CGridView->renderContent()
+#14 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CGridView->run()
+#15 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(58): FundController->widget()
+#16 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#17 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#18 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#19 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#20 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#21 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#22 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#23 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#24 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#26 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#27 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#28 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#29 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#30 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#31 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#32 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (58)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (142)
+in Z:\home\voenkom\www\index.php (13)
+2013/05/06 13:09:16 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(50): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (50)
+2013/05/06 13:10:03 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(50): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (50)
+2013/05/06 13:10:07 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php(50): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#6 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(142): FundController->render()
+#7 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionAdmin()
+#8 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#9 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#10 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#12 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#14 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#16 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#17 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#18 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#19 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/admin.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\admin.php (50)
+2013/05/06 13:10:13 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\_form.php(20): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\protected\modules\admin\views\fund\create.php(18): FundController->renderPartial()
+#6 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#8 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#9 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#10 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(78): FundController->render()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionCreate()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/create.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\_form.php (20)
+2013/05/06 13:11:09 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\db\ar\CActiveRecord.php:2335)
+Stack trace:
+#0 Z:\home\voenkom\www\protected\models\Prizovnyk.php(103): model()
+#1 Z:\home\voenkom\www\protected\modules\admin\views\fund\_form.php(20): all()
+#2 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#4 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#5 Z:\home\voenkom\www\protected\modules\admin\views\fund\create.php(18): FundController->renderPartial()
+#6 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#8 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#9 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#10 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(78): FundController->render()
+#11 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionCreate()
+#12 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#13 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#14 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#16 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#18 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#19 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#20 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#22 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#23 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/create.html
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (23)
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (103)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\_form.php (20)
+2013/05/06 13:17:06 [error] [php] Invalid argument supplied for foreach() (Z:\home\voenkom\www\framework\web\helpers\CHtml.php:2053)
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CBaseController.php(130): require()
+#1 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#2 Z:\home\voenkom\www\framework\zii\widgets\CListView.php(281): FundController->renderFile()
+#3 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(160): CListView->renderItems()
+#4 unknown(0): CListView->renderSection()
+#5 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(143): preg_replace_callback()
+#6 Z:\home\voenkom\www\framework\zii\widgets\CBaseListView.php(128): CListView->renderContent()
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(173): CListView->run()
+#8 Z:\home\voenkom\www\protected\modules\admin\views\fund\index.php(20): FundController->widget()
+#9 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require()
+#10 Z:\home\voenkom\www\framework\web\CBaseController.php(95): FundController->renderInternal()
+#11 Z:\home\voenkom\www\framework\web\CController.php(869): FundController->renderFile()
+#12 Z:\home\voenkom\www\framework\web\CController.php(782): FundController->renderPartial()
+#13 Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php(127): FundController->render()
+#14 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): FundController->actionIndex()
+#15 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#16 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): FundController->runAction()
+#17 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 Z:\home\voenkom\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#19 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): FundController->filterAccessControl()
+#20 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#21 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#22 Z:\home\voenkom\www\framework\web\CController.php(265): FundController->runActionWithFilters()
+#23 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): FundController->run()
+#24 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#25 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#26 Z:\home\voenkom\www\index.php(13): CWebApplication->run()
+REQUEST_URI=/admin/fund/index.html
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\_view.php (13)
+in Z:\home\voenkom\www\protected\modules\admin\views\fund\index.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\controllers\FundController.php (127)
+2013/05/06 13:56:32 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_pr' at line 2. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                (LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL)
+                .
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (120)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 13:56:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_pr' at line 2. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                (LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL)
+                ' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(120): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/1.html
+---
+2013/05/06 13:59:38 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL.
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (121)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 13:59:38 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(121): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/1.html
+---
+2013/05/06 14:01:26 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL.
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (121)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 14:01:26 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(121): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/1.html
+---
+2013/05/06 14:05:15 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM (prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk)
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL.
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (121)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 14:05:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHER' at line 4. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM (prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk)
+                WHERE f.id_prizovnyk IS NULL
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(121): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/1.html
+---
+2013/05/06 14:05:54 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE f.id_prizovnyk IS NULL)
+                (RIGHT JOIN vzabovyazanyj v ON v.i' at line 3. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM ((prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL)
+                (RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL).
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (121)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 14:05:54 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE f.id_prizovnyk IS NULL)
+                (RIGHT JOIN vzabovyazanyj v ON v.i' at line 3. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM ((prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL)
+                (RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk=p.id_prizovnyk
+                WHERE p.id_prizovnyk IS NULL)' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(121): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/1.html
+---
+2013/05/06 14:15:43 [error] [system.db.CDbCommand] Не вдалося виконати CDbCommand::fetchAll(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==p.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL' at line 3. Спроба виконати SQL-запит: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk==p.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+               .
+in Z:\home\voenkom\www\protected\models\Prizovnyk.php (121)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php (20)
+in Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php (19)
+2013/05/06 14:15:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand не вдалося виконати SQL-запит: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==p.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL' at line 3. The SQL statement executed was: SELECT p.id_prizovnyk, p.name FROM prizovnyk p
+                LEFT JOIN fund f ON p.id_prizovnyk=f.id_prizovnyk
+                RIGHT JOIN vzabovyazanyj v ON v.id_prizovnyk==p.id_prizovnyk
+                WHERE f.id_prizovnyk IS NULL
+               ' in Z:\home\voenkom\www\framework\db\CDbCommand.php:541
+Stack trace:
+#0 Z:\home\voenkom\www\framework\db\CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 Z:\home\voenkom\www\protected\models\Prizovnyk.php(121): CDbCommand->queryAll()
+#2 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\_form.php(20): Prizovnyk::allV()
+#3 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#4 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#5 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#6 Z:\home\voenkom\www\protected\modules\admin\views\vzabovyazanyj\create.php(19): CController->renderPartial('_form', Array)
+#7 Z:\home\voenkom\www\framework\web\CBaseController.php(126): require('Z:\home\voenkom...')
+#8 Z:\home\voenkom\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('Z:\home\voenkom...', Array, true)
+#9 Z:\home\voenkom\www\framework\web\CController.php(869): CBaseController->renderFile('Z:\home\voenkom...', Array, true)
+#10 Z:\home\voenkom\www\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#11 Z:\home\voenkom\www\protected\modules\admin\controllers\VzabovyazanyjController.php(79): CController->render('create', Array)
+#12 Z:\home\voenkom\www\framework\web\actions\CInlineAction.php(49): VzabovyazanyjController->actionCreate()
+#13 Z:\home\voenkom\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#14 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#15 Z:\home\voenkom\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#17 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#18 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#20 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#22 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/vzabovyaz...')
+#23 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#24 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#25 {main}
+REQUEST_URI=/admin/vzabovyazanyj/create.html
+HTTP_REFERER=http://voenkom/admin/vzabovyazanyj/view/id/2.html
+---
+2013/05/06 14:17:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 14:21:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 14:21:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 14:21:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/06 14:46:35 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/troop/adm...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/troop/admin.html
+HTTP_REFERER=http://voenkom/admin/troop.html
+---
+2013/05/06 14:50:57 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit/admi...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/unit/admin.html
+HTTP_REFERER=http://voenkom/admin/unit.html
+---
+2013/05/06 14:51:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/unit/crea...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/unit/create.html
+HTTP_REFERER=http://voenkom/admin/unit.html
+---
+2013/05/06 14:51:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 14:52:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 14:52:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 14:52:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 14:52:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/06 14:54:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/prizovnyk...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/prizovnyk/create.html
+HTTP_REFERER=http://voenkom/admin/prizovnyk.html
+---
+2013/05/06 14:54:27 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/prizovnyk...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/prizovnyk/create.html
+HTTP_REFERER=http://voenkom/admin/prizovnyk.html
+---
+2013/05/06 14:54:31 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/prizovnyk...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/prizovnyk/admin.html
+HTTP_REFERER=http://voenkom/admin/prizovnyk.html
+---
+2013/05/06 14:54:46 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('update')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/fund/upda...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/fund/update/id/1.html
+HTTP_REFERER=http://voenkom/admin/fund/view/id/1.html
+---
+2013/05/14 19:19:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/14 19:19:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/16 13:02:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/16 13:02:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/16 17:07:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/05/23 00:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/23 00:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/23 00:53:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/05/23 01:13:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/06/03 22:55:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/03 22:55:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/03 23:11:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/06/03 23:13:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "assets/e583d07d/contents.css".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/e583d07d...')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/assets/e583d07d/contents.css
+---
+2013/06/05 23:45:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/06/05 23:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/10/24 15:07:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/12/29 23:59:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/12/29 23:59:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/12/29 23:59:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/05/20 14:53:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/05/20 14:55:21 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/fund/admi...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/fund/admin.html
+HTTP_REFERER=http://voenkom/admin/fund.html
+---
+2014/05/20 14:55:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/fund/crea...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/fund/create.html
+HTTP_REFERER=http://voenkom/admin/fund.html
+---
+2014/05/20 14:55:41 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'У вас недостатньо прав для виконання зазначеної дії.' in Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php:179
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\auth\CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(CWebUser), '?? ?????? ?????...')
+#1 Z:\home\voenkom\www\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 Z:\home\voenkom\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 Z:\home\voenkom\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 Z:\home\voenkom\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 Z:\home\voenkom\www\framework\web\CController.php(291): CFilterChain->run()
+#6 Z:\home\voenkom\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 Z:\home\voenkom\www\framework\web\CWebApplication.php(282): CController->run('create')
+#8 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('admin/troop/cre...')
+#9 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/admin/troop/create.html
+HTTP_REFERER=http://voenkom/admin/troop.html
+---
+2014/09/03 09:02:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Неможливо обробити запит "favicon.ico".' in Z:\home\voenkom\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 Z:\home\voenkom\www\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 Z:\home\voenkom\www\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 Z:\home\voenkom\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
